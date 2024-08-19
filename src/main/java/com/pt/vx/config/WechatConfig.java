@@ -43,10 +43,10 @@ public class WechatConfig {
                 "tp", //咋称呼这个人
                 "山东省青岛市黄岛区", //这个人的详细地址
                 "青岛", //这个人在的城市
-                new BirthDay(2002,10,23,true,false,"宝宝生日快乐！！"),
+                new BirthDay(2002,10,23,false,false,"宝宝生日快乐！！"),
                 new BirthDay(2002,3,22,false,false,"骏骏生日快乐哦~~"),
-                new BirthDay(2021,10,12,true,true),
-                new BirthDay(2021,10,12,true,false,"周年快乐！！！")
+                new BirthDay(2021,10,12,false,true),
+                new BirthDay(2021,10,12,false,false,"周年快乐！！！")
         ));
 
         userList.add(getUser(
@@ -55,10 +55,10 @@ public class WechatConfig {
                 "lcjunjun",
                 "天津市津南区",
                 "天津",
-                new BirthDay(2002,10,23,true,false,"宝宝生日快乐！！"),
+                new BirthDay(2002,10,23,false,false,"宝宝生日快乐！！"),
                 new BirthDay(2002,3,22,false,false,"骏骏生日快乐哦~~"),
-                new BirthDay(2021,10,12,true,true),
-                new BirthDay(2021,10,12,true,false,"周年快乐！！！")
+                new BirthDay(2021,10,12,false,true),
+                new BirthDay(2021,10,12,false,false,"周年快乐！！！")
         ));
 
 
