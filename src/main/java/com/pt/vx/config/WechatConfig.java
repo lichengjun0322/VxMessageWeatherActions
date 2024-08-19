@@ -45,8 +45,8 @@ public class WechatConfig {
                 "青岛", //这个人在的城市
                 new BirthDay(2002,10,23,false,false,"宝宝生日快乐！！"),
                 new BirthDay(2002,3,22,false,false,"骏骏生日快乐哦~~"),
-                new BirthDay(2021,10,12,false,true),
-                new BirthDay(2021,10,12,false,false,"周年快乐！！！")
+                new BirthDay(2021,10,12,false,false),
+                new BirthDay(2021,10,12,false,true,"周年快乐！！！")
         ));
 
         userList.add(getUser(
@@ -57,8 +57,8 @@ public class WechatConfig {
                 "天津",
                 new BirthDay(2002,10,23,false,false,"宝宝生日快乐！！"),
                 new BirthDay(2002,3,22,false,false,"骏骏生日快乐哦~~"),
-                new BirthDay(2021,10,12,false,true),
-                new BirthDay(2021,10,12,false,false,"周年快乐！！！")
+                new BirthDay(2021,10,12,false,false),
+                new BirthDay(2021,10,12,false,true,"周年快乐！！！")
         ));
 
 
